@@ -1,0 +1,13 @@
+body{
+    color: powderblue;
+    background: rgb(182, 25, 255); 
+   }
+   
+   .heading{
+       width: 80%;
+       font-size: 25px;
+   }
+   
+   .name_of_objects{
+       color: darkslategrey;
+   }
